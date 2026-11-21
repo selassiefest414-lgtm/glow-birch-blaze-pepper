@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rainbow DJ Lab Board Brief",
+      "hasCanvas": false,
+      "bodyTextLen": 19485,
+      "bodyTextHash": "6eafa36a7070b0aca2951a928f7f667224e4cb95c9c5cc67f18e4ea0ac8b9848",
+      "bodyTextPrefix": "Skip to the brief RAS TAFARI INC. / BOARD DISCUSSION DRAFT / NOV",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rainbow DJ Lab Board Brief",
+      "hasCanvas": false,
+      "bodyTextLen": 19485,
+      "bodyTextHash": "6eafa36a7070b0aca2951a928f7f667224e4cb95c9c5cc67f18e4ea0ac8b9848",
+      "bodyTextPrefix": "Skip to the brief RAS TAFARI INC. / BOARD DISCUSSION DRAFT / NOV",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

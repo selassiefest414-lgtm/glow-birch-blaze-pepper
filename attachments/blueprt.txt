@@ -1,0 +1,112 @@
+## Academic Governance, Endowment, and Institutional Prestige Blueprint
+
+Stephen Henry, Paul Kelly, Albert Harris, and the leadership of Ras Tafari Inc.: the corporate chassis is already in place. EIN 42-3036705, File #75598726, the Conflict of Interest policy, Chase tiered signatories, and the Board of Directors stay as they are. What follows is the academic layer that turns Rainbow DJ Lab from a charity program into a school other institutions have to take seriously.
+
+Two commissions, not one. The [NASM Handbook](https://nasm.arts-accredit.org/accreditation/standards-guidelines/handbook/) is explicit: a community or precollegiate music school that is not part of a college seeks accreditation from the **Accrediting Commission for Community and Precollegiate Arts Schools (ACCPAS)** first. NASM institutional membership is the later door, and only if you also run a true postsecondary professional program. ACCPAS accreditation in music can then support eligibility for NASM membership. Do not spend the first three years writing a NASM self-study for a program that belongs at ACCPAS.
+
+### Pillar 1: The Academic & Industry Advisory Board
+
+Building on Article IX, create two different bodies. Mixing them is how prestige guests accidentally become fiduciaries.
+
+**Academic Affairs Committee.** A standing committee of the Board. Directors only, plus the chief academic officer as staff. This committee recommends curriculum, academic policy, and faculty appointments to the full Board. It holds the authority. The Advisory Board does not.
+
+**Academic & Industry Advisory Board.** Chartered by Board resolution under Article IX as an advisory body, not a committee with delegated Board power. It recommends. It does not hire, spend, contract, set tuition, or bind Ras Tafari Inc.
+
+**Charter, in one page:**
+
+*   Charge: curriculum relevance, industry standards, canon, artist pipeline, and external review of assessment.
+*   Authority: written recommendations to the Academic Affairs Committee twice a year. Nothing else.
+*   Liability wall: each advisor signs an appointment letter stating no fiduciary duty, no authority to bind the corporation, confidentiality, and a Conflict of Interest disclosure under the policy you already have. A gear executive who sits as an advisor does not participate in any recommendation that touches that company’s products. Counsel reviews the letter before the first invitation goes out, and your D&O policy is checked so volunteers are not casually swept into director duties.
+*   Minutes: advisory notes, stored apart from Board minutes.
+
+**Seats, 11, renewable three-year terms, staggered. Targets, not nominees:**
+
+1. Three canon seats: Chicago house originators or their direct artistic peers.
+2. Two working international DJs or producers who will actually read a syllabus.
+3. Two faculty seats from accredited university music units (music technology, musicology, or ethnomusicology).
+4. One label or publishing executive.
+5. One audio-technology executive, recused from procurement.
+6. One club or festival programmer who books on musical grounds.
+7. One chair, chosen by the advisors, who is not a director. One director attends ex officio as liaison and does not carry a vote that could turn this body into the Board.
+
+### Pillar 2: The Accreditation Pathway
+
+| Path | Fits Rainbow DJ Lab when | Body | What “good” looks like |
+|---|---|---|---|
+| Community and precollegiate | Open labs, youth, short courses, pre-professional training | ACCPAS first | Published policies, qualified faculty, real assessment, a completed cycle of teaching |
+| Postsecondary professional | A flagship certificate of at least 30 semester-hour equivalents, with students admitted on a high-school diploma or recognized equivalent | NASM, non-degree-granting | Program completed by students, at least three enrolled and progressing, scale toward the NASM size expectation of 15 students in qualifying programs |
+
+NASM’s basic membership rules for non-degree institutions are in the current Handbook: a music mission, at least one program at that 30-semester-hour scale (15 at graduate level), students who have finished it, and ongoing self-evaluation. Initial accreditation, once granted, runs five years, then a ten-year cycle, with annual reports in between. Community schools outside a college are pointed to ACCPAS.
+
+**Years 0–1, build the record.** Adopt an academic catalog separate from the corporate bylaws: mission, admissions, audition, attendance, satisfactory progress, grade appeal, refund, credit, and transfer. Open a credential file on every instructor. Define clock-hour to semester-hour conversion and use it on every transcript. Put juries on the calendar before you advertise accreditation.
+
+**Years 1–2, teach and finish a cohort.** ACCPAS needs a real operating school, not a prospectus. In parallel, run one flagship **Professional Certificate in DJ Arts** sized to at least 30 semester-hour equivalents, so the NASM door is real later. High-school students may sit in; under NASM rules they are special students and are not candidates for that postsecondary certificate until they hold a diploma or equivalent.
+
+**Years 2–4, self-study, visit, commission.** Eligibility, self-study, site visit, decision. Budget a full academic year for the self-study alone. Do not print “NASM-accredited” on anything until a commission letter says so. Candidate or applicant status must be described in the commission’s own words.
+
+**Policies and rubrics to adopt now:**
+
+*   Admissions that predict success in the specific program, plus an audition or evaluated portfolio for any professional certificate above 30 semester hours.
+*   Four common rubrics, scored 1–4 with anchors, used by every core instructor: technical jury (beat alignment, phrasing, gain, EQ, CDJ and vinyl fluency), programming (arc, genre literacy, key and energy), critical listening and history (written and aural, with Chicago house, disco, Detroit techno, dub, and current club practice in the canon), and professional practice (copyright in mixes and productions, agreements, safety).
+*   A recorded jury at least once per level, two faculty scorers, rubric kept in the student file.
+*   Faculty competence documented by degree or by equivalent professional achievement. A discography counts only if the file shows it, and only for the level being taught.
+
+**Certificates that carry weight.** Weight does not mean automatic college credit. NASM accreditation does not turn a DJ certificate into transferable general-education credit.
+
+*   **Foundation Certificate:** community, clock-hour, not described as college credit.
+*   **Professional Certificate in DJ Arts:** postsecondary, 30-plus semester-hour equivalents, official transcript with course numbers, hours, grade, outcomes, and jury result.
+*   **Pre-Professional Certificate:** for secondary students, aimed at the NASM idea of competence comparable to entrance into a professional baccalaureate music program, not at a fake diploma.
+*   **Articulation, in writing, with specific NASM-member colleges:** portfolio or elective recognition only. No blanket “transfers anywhere” claim.
+*   Later, and only after the curriculum is stable, seek an external credit recommendation. That is a second project, not a launch slogan.
+
+### Pillar 3: Endowment and the Investment Committee
+
+Article XI still governs the fiscal year and the operating accounts at Chase. The endowment does not live in those accounts, and it does not use the operating signatory tiers.
+
+**Separate the committees.** Do not turn the Finance Committee into the investment committee.
+
+*   Finance Committee: operating budget, internal controls, and the Chase signatory structure you already run.
+*   Endowment & Investment Committee: a new Article IX standing committee. It drafts the Investment Policy Statement, recommends a custodian and managers, and reports quarterly. It cannot sign operating checks, and it cannot invade principal outside a spending policy the full Board adopts.
+*   The Conflict of Interest policy applies to both. Any advisor or donor affiliated with a vendor is out of the room on that relationship.
+
+**Rules to adopt before the first gift is booked:**
+
+*   Gift-acceptance policy: what you will take (cash, appreciated securities, bequests) and what you will not (encumbered gear, gifts that dictate curriculum or hiring).
+*   Investment Policy Statement written to the Uniform Prudent Management of Institutional Funds Act as enacted in the state of incorporation. EIN prefix 42 is the Iowa series; if that is the domicile, counsel confirms Iowa’s version before the IPS is voted.
+*   Spending rule: no draw until the Board-designated corpus crosses a threshold you set, then a prudent rate. A common institutional mark is 4 percent of a 12-quarter average. Put the number in the resolution only after the committee models cash needs. Equipment sponsorships are current-use restricted gifts unless the instrument of gift permanently restricts the principal.
+
+**Five-year raise, in order:**
+
+1. **Year 1.** Case for support, IPS, gift policy, and a separate custodial account. A founding directors’ fund, even a modest one, so the corpus is real before you ask outsiders.
+2. **Year 2.** Industry partnerships with AlphaTheta (Pioneer DJ), Ableton, Native Instruments, inMusic, and Sennheiser. Ask for a split: a current-use lab gift plus a smaller permanently restricted match. A free CDJ fleet is not an endowment.
+3. **Year 3.** Named scholarship funds at a published minimum, major gifts solicited against student aid and faculty chairs, not against rent.
+4. **Year 4.** Planned giving: bequest language, beneficiary designations, and a Chicago house legacy fund families can understand in one page.
+5. **Year 5.** First authorized spend under the policy, reported to the Board as dollars, rate, and purpose. If the corpus is not there, you do not invent a draw.
+
+### Pillar 4: Facilities and Faculty
+
+An Ivy League lab is a standard that every student can touch, plus one flagship room. It is not Atmos in every booth.
+
+**Three rooms, specified:**
+
+*   **Performance lab, every station the same.** Two CDJ-3000s, one DJM-A9 or DJM-V10, two Technics SL-1200MK7s (or current 1200-class equivalent) with club cartridges, a phono stage you trust, closed-back headphones of one school-wide model, and licensed Rekordbox and Serato. Calibrated booth monitors, treated isolation so adjacent students are not mixing each other’s bleed, and power and cable plans a visiting evaluator can see.
+*   **Production suite.** Treated stereo rooms that translate, Ableton Live as the core DAW, a second DAW seat, a proper interface, and a documented gain path. One Dolby Atmos room, 7.1.4 or the current theatrical configuration, only as a named capital gift. Do not make Atmos a graduation requirement you cannot maintain.
+*   **Critical listening room and library.** Stereo playback good enough for history and jury review, plus a collection of canonical recordings and licensed archives. For this school the library is the recorded canon and oral history, not a wall of scores you will never use. Accreditation visitors look for the library that matches the mission.
+
+**Faculty, two ranks. Do not call it tenure.**
+
+*   **Core Faculty.** Multi-year continuing appointment after review. They own syllabi, sit on juries, and use the common rubrics. Hiring bar: a public professional record at the level being taught, plus a scored teaching demonstration. Credential file holds the CV, selected discography or performance history, any degrees, and evidence of teaching. Professional achievement can carry the file where a degree does not; the file still has to exist.
+*   **Artists-in-Residence.** One term, paid, prestigious, and not the instructor of record unless they have been calibrated on the rubrics. Legends who will not be observed teaching stay in this rank.
+
+Review core faculty on a set cycle: peer observation, jury alignment, student results, and professional currency. Renewal is a Board decision on recommendation of the Academic Affairs Committee, not a handshake.
+
+### What the Board should vote in the next 90 days
+
+1. Resolution creating the Academic Affairs Committee and the non-fiduciary Advisory Board charter, with the appointment letter attached.
+2. Resolution adopting the academic catalog skeleton: credit definition, the four rubrics, and the three certificate names.
+3. Resolution creating the Endowment & Investment Committee, forbidding commingling with Article XI operating accounts, and directing counsel to confirm the state UPMIFA before any restricted gift is accepted.
+4. A one-page choice, in the Board minutes, of the first accreditation body: ACCPAS for the community school you can operate now, with the 30-semester-hour Professional Certificate built underneath so NASM is a second-cycle goal rather than a press release.
+
+The order matters. Charter, then catalog, then money, then the commission. Prestige follows a school that can show its records.
+
+Which of those four resolutions should be drafted first for the Board packet?
